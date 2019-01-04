@@ -27,7 +27,7 @@ module.exports.run = async (bot, message, args) => {
 
     let startMessage = new Discord.RichEmbed()
         .setTitle("Raider Scrims")
-        .setDescription("Please write the last 3 characters from your server id")
+        .setDescription("Please write the last 3 characters from your server ID <@&530616623329968158>")
         .setColor("#8600b3")
         .setFooter("Raider Scrims");
 

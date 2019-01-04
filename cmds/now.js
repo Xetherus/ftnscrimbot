@@ -1,7 +1,7 @@
 
 module.exports.run = async (bot,message,args) => {
 
-    message.channel.send("Scrim starts now!")
+    message.channel.send("Scrim starts now! <@&530616623329968158>")
 
 
 }
